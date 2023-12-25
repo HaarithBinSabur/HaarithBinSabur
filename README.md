@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Haarith</h1>
 <h3 align="center">A passionate Software Engineer from Philadelphia, PA</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haarithbinsabur" alt="haarithbinsabur" /></a> </p>
-
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at in my Repositories or them in here [https://haarithabdurraman.netlify.app/](https://haarithabdurraman.netlify.app/)
